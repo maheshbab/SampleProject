@@ -42,11 +42,6 @@ public class Address {
 		this.emaill = emaill;
 	}
 
-	@Override
-	public String toString() {
-		return "Address [addrId=" + addrId + ", pincode=" + pincode + ", mobileNo=" + mobileNo + ", emaill=" + emaill
-				+ "]";
-	}
 	
 	
 
